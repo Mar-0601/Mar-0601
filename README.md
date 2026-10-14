@@ -1,16 +1,42 @@
-## Hi there 👋
+# ¡Hola! Soy Mar 👋
 
-<!--
-**Mar-0601/Mar-0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Desarrollo de Aplicaciones Web | Diseño gráfico
 
-Here are some ideas to get you started:
+Soy estudiante de **2.º de Desarrollo de Aplicaciones Web (DAW)** en el IES L'Estació de Ontinyent y titulada en **Diseño Gráfico** por la EASD de València.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa combinar el diseño visual con la programación para crear páginas web funcionales, accesibles y atractivas.
+
+---
+
+## 👩‍💻 Sobre mí
+
+- 🎓 Actualmente estudio Desarrollo de Aplicaciones Web.
+- 🎨 Tengo formación en diseño gráfico y comunicación visual.
+- 💻 Estoy aprendiendo desarrollo web frontend y backend.
+- 🌱 Me interesa seguir creciendo en programación, diseño de interfaces y experiencia de usuario (UX/UI).
+- 🚀 Me gusta aprender mediante proyectos prácticos.
+
+## 🛠️ Tecnologías y herramientas
+
+### Desarrollo web
+- HTML5 y CSS3
+- JavaScript
+- PHP
+- SQL
+
+### Programación y herramientas
+- Java
+- Git y GitHub
+- Node.js
+- Visual Studio Code
+
+### Diseño
+- Diseño gráfico
+- Diseño de interfaces web
+- Composición y comunicación visual
+
+---
+
+## 📫 Contacto
+
+- GitHub: [@Mar-0601](https://github.com/Mar-0601)
